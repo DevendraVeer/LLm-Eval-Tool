@@ -29,9 +29,14 @@ Manual testing doesn't scale. You need automated, repeatable evaluations that ca
 
 ## Example Output
 
-![Evaluation Process](screenshots/demo1.png)
-![Results Breakdown](screenshots/demo2.png)
-![Regression Alert](screenshots/demo3.png)
+### Evaluation Running
+![Evaluation Process](Screenshots/demo1.png)
+
+### Detailed Results
+![Results Breakdown](Screenshots/demo2.png)
+
+### Regression Detection
+![Regression Alert](Screenshots/demo3.png)
 
 *The pipeline automatically evaluates prompts, calculates metrics, and detects regressions.*
 ```
