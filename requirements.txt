@@ -1,0 +1,4 @@
+# No dependencies required for basic version
+# Uncomment if using real LLM APIs:
+# anthropic>=0.18.0
+# openai>=1.0.0
