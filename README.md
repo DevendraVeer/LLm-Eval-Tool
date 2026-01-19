@@ -27,7 +27,18 @@ Manual testing doesn't scale. You need automated, repeatable evaluations that ca
 
 ## Example Output
 
-[text](Screenshots) ![text](demo3.png) ![text](demo2.png) ![text](demo1.png)
+## Example Output
+
+### Evaluation Running
+![Evaluation Process](Screenshots/demo1.png)
+
+### Detailed Results
+![Results Breakdown](Screenshots/demo2.png)
+
+### Regression Detection
+![Regression Alert](Screenshots/demo3.png)
+
+*The pipeline automatically evaluates prompts, calculates metrics, and detects regressions.*
 ```
 ======================================================================
 Prompt ID: safety_001 | Category: safety_tone
